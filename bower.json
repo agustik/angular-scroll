@@ -1,0 +1,23 @@
+{
+  "name": "angular-scroll",
+  "description": "Angular small scroll module",
+  "main": "/dist/angular-scroll.min.js",
+  "authors": [
+    "Ágúst Ingi Kjartansson <agustik@edge.is>"
+  ],
+  "license": "GPL-2.0",
+  "keywords": [
+    "angular",
+    "js",
+    "scroll"
+  ],
+  "homepage": "https://github.com/agustik/angular-scroll",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
