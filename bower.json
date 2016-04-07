@@ -1,5 +1,5 @@
 {
-  "name": "angular-scroll",
+  "name": "angular-endless-scroll",
   "description": "Angular small scroll module",
   "main": "/dist/angular-scroll.min.js",
   "authors": [
